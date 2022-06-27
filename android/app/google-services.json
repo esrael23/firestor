@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743307261402",
+    "project_id": "firestor-1a743",
+    "storage_bucket": "firestor-1a743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743307261402:android:1ff66cbf756c7c1a5fbce3",
+        "android_client_info": {
+          "package_name": "com.example.firestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743307261402-1prkit1kojf2tjm6evd1bo7ndtbngmsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4R_fNzBA2xP46DfwUONbHBQBXBbYiuTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743307261402-1prkit1kojf2tjm6evd1bo7ndtbngmsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
